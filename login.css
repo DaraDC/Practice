@@ -1,0 +1,55 @@
+.form-group
+{
+	padding:20px;
+	font-size:20px;
+	font-family: Times new Roman;
+	align:center;
+}
+h1
+{
+
+    font-family:fantasy;
+	padding-top:20px;
+	
+}
+.sea
+{
+	padding-top:5px;
+	margin-right:50px;
+}
+.sea2
+{
+    padding-top:5px;
+	margin-right:33px;
+}
+form
+{
+    background:linear-gradient(rgb(72%, 205%, 94%), rgb(130%, 65%, 54%));
+	padding-top:40px;
+	margin-left:410px;
+	max-width:550px;	
+}
+#boton
+{
+	font-size:15px;
+	background-color:lightcoral;
+	color:white;
+}
+option
+{
+	font-size:15px;
+	width:20px;
+}
+#exampleFormControlSelect1
+{
+	font-size:15px;
+	width:450px;
+	margin-left:50px;
+}
+svg
+{
+	margin-right:15px;
+	margin-left:50px;
+	font-size:45px;
+	color:white;
+}
